@@ -1,0 +1,2 @@
+link docker hub karsajobs-ui = https://hub.docker.com/r/aminullohzaqi/karsajobs-ui
+link docker hub karsajobs = https://hub.docker.com/r/aminullohzaqi/karsajobs
