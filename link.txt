@@ -1,0 +1,2 @@
+docker hub order service = https://hub.docker.com/r/aminullohzaqi/order-service
+docker hub shipping service = https://hub.docker.com/r/aminullohzaqi/shipping-service
